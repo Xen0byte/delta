@@ -1,7 +1,9 @@
 Rocket.toml
-/target
-/target_backup
-**/*.rs.bk
-.mongo
+Revolt.toml
+
+target
+.data
 .env
-avatar.png
+
+.vercel
+.DS_Store
